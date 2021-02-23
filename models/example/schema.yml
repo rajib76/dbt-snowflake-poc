@@ -4,6 +4,7 @@ version: 2
 models:
     - name: school
       description: "School table"
+      schema: "ADMCOE_SCHEMA"
       columns:
           - name: school_id
             description: "The primary key for this table"
