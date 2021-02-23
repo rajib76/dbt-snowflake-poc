@@ -5,4 +5,5 @@ sources:
     database: ADMCOE_DB
     schema: ADMCOE_SCHEMA
     tables:
-      - name: SCHOOL_DISTRICT 
+      - name: SCHOOL 
+      - name: MASK_COMPLIANCE
