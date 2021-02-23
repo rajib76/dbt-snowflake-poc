@@ -1,6 +1,6 @@
 {{
   config(
-    materialized='table', target_schema='ADMCOE_SCHEMA'
+    materialized='table', schema='ADMCOE_SCHEMA'
   )
 }}
 
