@@ -1,4 +1,8 @@
-{{ config(materialized='table') }}
+{{
+  config(
+    materialized='table', schema='ADMCOE_SCHEMA'
+  )
+}}
 
 with school_data as (
 
