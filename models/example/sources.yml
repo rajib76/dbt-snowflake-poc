@@ -1,0 +1,8 @@
+version: 2
+
+sources:
+  - name: back_to_work
+    database: ADMCOE_DB
+    schema: ADMCOE_SCHEMA
+    tables:
+      - name: SCHOOL_DISTRICT 
